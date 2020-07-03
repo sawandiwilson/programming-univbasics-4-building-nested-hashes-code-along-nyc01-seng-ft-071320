@@ -53,7 +53,7 @@ def third_challenge
       }
     ]
   }
-}]
+}
    }
   }
 
