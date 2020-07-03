@@ -19,6 +19,13 @@ def third_challenge
          :age => "17",
          :attitude => "worried"]
    }, 
+   {
+        :name => "Mercutio",
+        :age => "18",
+        :attitude => "hot-headed"
+      }
+    ]
+  },
    :capulet => {
       :patriarch => {
         #your key/value pairs here
